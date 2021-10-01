@@ -1,0 +1,3 @@
+a = float(input('Ширина комнаты'))
+b = float(input('Длина комнаты'))
+print(a * b)
