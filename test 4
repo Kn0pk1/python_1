@@ -1,0 +1,4 @@
+hour = int(input('часы '))
+minutes = int(input('минуты '))
+seconds = int(input('секунды '))
+print(hour * 3600 + minutes * 60 + seconds, 'секунды')
