@@ -1,0 +1,3 @@
+a = float(input('ваш рост, '))
+b = float(input('ваш вес, '))
+print(b/a**2)
